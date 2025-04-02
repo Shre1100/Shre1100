@@ -43,7 +43,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shre1100&show_icons=true&locale=en" alt="shre1100" /></p>
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shre1100&" alt="shre1100" /> &nbsp;
+<p>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shre1100&" alt="shre1100" /> &nbsp; -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shre1100&show_icons=true&locale=en&layout=compact" alt="shre1100" /></p>
 </p>
 <br/>
