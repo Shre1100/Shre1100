@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreya Kumar</h1>
-<h3 align="center">🚀 Aspiring SDE | Currently in my pre-final year | Pursuing B.tech in Computer Science Engineering with specialization in Cloud Computing and Machine Learning</h3>
+<h3 align="center">🚀 Aspiring SDE | Seeking Internship Opportunities | Final year CSE Student with specialization in Cloud Computing and Machine Learning</h3>
 
 ### 💫 About Me:
 
 - 🔭 I'm passionate about building innovative solutions and continuously expanding my knowledge in full-stack development, cloud technologies, and data structures and algorithms.
 
-- ✨ I'm actively building projects using React for the front-end and Node.js for the back-end, aiming to create robust and user-friendly web applications.
+- ✨ Ranked in top 5% for All India NCAT(Naukri Campus Aptitude Test) 2025, competing among 4.4 lakh participants.
 
-- 📖  I'm dedicated to improving my problem-solving skills and algorithmic thinking using C++. 
+- 📖  Solved 300+ problems on Leetcode and TakeuForward. 
 
 - 🌱 I’m currently learning **AWS, Machine Learning and Artificial Intelligence** .
 
