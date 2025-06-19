@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Kumar</h1>
 <h3 align="center">🚀 Aspiring SDE | Seeking Internship Opportunities | Final year CSE Student with specialization in Cloud Computing and Machine Learning</h3>
+<hr/>
 
 ### 💫 About Me:
 
